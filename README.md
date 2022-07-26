@@ -1,2 +1,2 @@
 # Phyton_Jupyter
-Introdução ao Phyton
+Introdução ao Phyton utilizando a IDE Jupyter
