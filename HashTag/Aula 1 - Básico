@@ -1,0 +1,23 @@
+# Passo a Passo da resolução de um exercício
+## Lógica de Programação: O que é?
+
+   Pode ser entendida como uma sequência finita, estruturada e bem organizada de
+   passo que devem ser realizados para que se solucione um problema. Não consiste
+   em uma sequência necessariamente linear, mas em um conjunto de etapas a serem
+   realizadas até que se chegue ao resultado desejado.
+   
+  OBS: Quando o texto ou código ficar totalmente vermelho, verifique os espaços 
+  de indentação. É possível que o código não seja executado corretamente.
+#Passo 0 - Entender o desafio que se quer resolver
+
+#Passo 1- Usar o Jupyter Phyton para percorrer todos os arquivos da pasta da base de dados
+
+#Passo 2 - Importar as bases de dados das vendas vendas
+
+#Passo 3 - Tratar / compilar as bases de dados de vendas
+
+#Passo 4 - Determinar o produto mais vendido (Em quantidades absolutas)
+
+#Passo 5 - Determinaro produto que mais faturou (Em faturamento)
+
+#Passo 6 - Determinar a loja/cidade que mais vendeu (Em faturamento) --> Criar um gráfico / Dashboard
