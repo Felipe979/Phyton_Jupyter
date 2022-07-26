@@ -8,9 +8,10 @@
    
   OBS: Quando o texto ou código ficar totalmente vermelho, verifique os espaços 
   de indentação. É possível que o código não seja executado corretamente.
+  
 #Passo 0 - Entender o desafio que se quer resolver
 
-#Passo 1- Usar o Jupyter Phyton para percorrer todos os arquivos da pasta da base de dados
+#Passo 1 - Usar o Jupyter Phyton para percorrer todos os arquivos da pasta da base de dados
 
 #Passo 2 - Importar as bases de dados das vendas vendas
 
